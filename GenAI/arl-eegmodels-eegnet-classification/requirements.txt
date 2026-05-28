@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+tensorflow
+keras
+mne
+pyriemann
+jupyter
+notebook
