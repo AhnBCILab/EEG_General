@@ -63,3 +63,10 @@ telemetry records.
 The included .gitignore excludes notebooks, datasets, virtual environments,
 model checkpoints, and generated outputs so the GitHub repository can contain
 only the reusable code.
+
+## Data License
+
+This project expects users to download the Sleep-EDF Expanded dataset separately
+from PhysioNet. The dataset is distributed under the Open Data Commons
+Attribution License v1.0 (ODC-BY 1.0). Users are responsible for following the
+dataset license and citing Sleep-EDF/PhysioNet when using the data.
