@@ -4,7 +4,7 @@ This repository is an EEG research workspace focused on motor task decoding, gen
 
 ## Overview
 
-The primary local project in this repository is the `MIMOME_FgMDM_transfer-main` folder, which implements FgMDM-based EEG decoding and task-to-task transfer learning across motor execution (ME), motor imagery (MI), and motor observation (MO).
+The primary project in this repository is the `MIMOME_FgMDM_transfer-main` folder, which implements FgMDM-based EEG decoding and task-to-task transfer learning across motor execution (ME), motor imagery (MI), and motor observation (MO).
 
 In addition, this repository is associated with broader EEG research modules that include:
 
