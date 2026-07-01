@@ -1,0 +1,28 @@
+# MATLAB backup files
+*.asv
+*.m~
+
+# Data / result files
+*.mat
+*.csv
+*.xlsx
+
+# Local configuration
+config_local.m
+
+# Data folder
+data/*
+!data/README.md
+
+# Results folder
+results/*
+!results/.gitkeep
+
+# External toolboxes
+external/*
+!external/README.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
